@@ -1,2 +1,2 @@
 # WordCounter-Hadoop
-Word counter program using Hadoop.
+Word counter program using Hadoop map reduce.
